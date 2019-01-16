@@ -67,7 +67,7 @@ Images look like links with an ! in front, for example, an external image can be
 
 ![Hosted image](https://upload.wikimedia.org/wikipedia/commons/0/02/Lynx_kitten.jpg "Lynx Kitten")
 ## A NEW IMAGE
-A Nice scenic image for pc wallpaper
+A nice scenic image for pc wallpaper
 
 ![Hosted image](https://albahealth.files.wordpress.com/2017/08/desktop-backgrounds-wallpapers-stock-royalty-free-images-pictures-images-photos-shutterstock-free-download-pictures-4.jpg)
 
