@@ -79,13 +79,13 @@ If you don't want text to flow together, leave a blank line between items you wi
 If editing online in GitHub, scroll up to the top of the edit box, and click "Preview Changes" to see what your file will look like when displayed as a webpage. 
 
 ## Learn More
-##fdjkh
 Learn more by checking out [Mastering Markdown](https://guides.github.com/features/mastering-markdown/ "Mastering Markdown") and other resources. 
+## I want To Add New Section
 
 ##  About
 
-Denise Case
+Sai Nikhil
 
-dcase@nwmissouri.edu
+S534737@nwmissouri.edu
 
 
