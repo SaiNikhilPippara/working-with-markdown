@@ -67,6 +67,8 @@ Images look like links with an ! in front, for example, an external image can be
 
 ![Hosted image](https://upload.wikimedia.org/wikipedia/commons/0/02/Lynx_kitten.jpg "Lynx Kitten")
 
+![Hosted image] (https://www.google.com/search?q=royalty+free+images&rlz=1C1GCEB_enUS831US831&source=lnms&tbm=isch&sa=X&sqi=2&ved=0ahUKEwjovZ2Yu_PfAhVSzIUKHaMjABYQ_AUIDigB&biw=1350&bih=617#imgrc=5DUlM09iN7C41M:)
+
 ## Paragraphs
 
 Lines directly below one another will wrap into a single paragraph. 
